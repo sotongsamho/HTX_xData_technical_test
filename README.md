@@ -16,7 +16,7 @@ This project analyzes HDB resale transaction data from 1990 to present, identify
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sotongsamho/HTX_xData_technical_test.git
 cd HDB
 ```
 
