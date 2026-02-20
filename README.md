@@ -31,8 +31,9 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-
-2. Open `HTX_takehomeassessment.ipynb` and run cells sequentially
+2. Place the csv files in the same directory as the jupyter notebook.
+  
+3. Open `HTX_takehomeassessment.ipynb` and run cells sequentially
 
 ## Project Structure
 
@@ -40,11 +41,6 @@ jupyter notebook
 ├── HTX_takehomeassessment.ipynb
 ├── requirements.txt           
 ├── .gitignore   
-├── resale-flat-prices-based-on-approval-date-1990-1999.csv 
-├── resale-flat-prices-based-on-approval-date-2000-feb-2012.csv 
-├── resale-flat-prices-based-on-registration-date-from-jan-2015-to-dec-2016.csv  
-├── resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv
-├── resale-flat-prices-based-on-registration-date-from-mar-2012-to-dec-2014.csv
 ├── slides               
 └── README.md
 
